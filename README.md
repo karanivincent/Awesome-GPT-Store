@@ -1,5 +1,5 @@
 # Awesome GPT Store
-A curated list of specialized Custom GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. 
+A curated list of specialized Custom GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors.
 
 ### Don't forget to:
 
@@ -27,6 +27,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX-code-support) - Quick command-line help and code snippets, defaults to Linux & Python.
 - [Crow](https://chat.openai.com/g/g-FJbohiuK0-crow) - Send a link, and I'll bring back the key points!
 - [EditGPT](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt) - Friendly video editing and image creation assistant.
+- [Efficiency Expert] (https://chat.openai.com/g/g-0oh5zkrUg-efficiency-expert) - Offer expert guidance on energy-saving and with smart follow-up questions.
 - [ExtractTableGPT](https://chat.openai.com/g/g-KbifnBjyz-extracttablegpt) - Extract table data from any docs into multiple formats.
 - [Fact or Fiction](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) - Provides verification with live links.
 - [File Converter](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter) - Assists in converting files between different formats.
